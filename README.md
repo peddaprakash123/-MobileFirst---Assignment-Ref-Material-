@@ -7,7 +7,7 @@ A responsive, single-user task management dashboard built with **React**, **Java
 ## Live & Repository Links
 
 - **Hosted Application URL**: https://ais-pre-wxltothfgg6wluuixqqbhj-199273552446.asia-east1.run.app
-- **GitHub Repository URL**: `<your-public-github-repo-url>` _(replace with the public repo URL after pushing)_
+- **GitHub Repository URL**: https://github.com/peddaprakash123/-MobileFirst---Assignment-Ref-Material-
 
 ---
 
